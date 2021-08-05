@@ -7,7 +7,7 @@
  
 - 🎓 Análise e Desenvolvimento de Sistemas na **FMU**;
 - ⚡ Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**;
-- 📚 Aprendendo mais sobre **ReactJS, NextJS, NodeJS**.
+- 📚 Aprendendo mais sobre **ReactJS, NextJS e NodeJS**.
 </p>
 
 <p align="left">
