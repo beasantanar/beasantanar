@@ -3,10 +3,10 @@
 <img src="https://www.pngitem.com/pimgs/m/173-1739801_women-in-tech-png-transparent-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="WomanCoder">
 
 <p align="left"> 
-  Oie! Sou Beatriz, <strong>Frontend Developer</strong> :D<br>
+  Oie! Sou Beatriz, <strong>Front-end Developer</strong> :D<br>
  
-- 🎓 Análise e Desenvolvimento de Sistemas na **FMU**
-- ⚡ Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**
+- 🎓 Análise e Desenvolvimento de Sistemas na **FMU**;
+- ⚡ Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**;
 - 📚 Aprendendo mais sobre **ReactJS, NextJS, NodeJS**.
 </p>
 
