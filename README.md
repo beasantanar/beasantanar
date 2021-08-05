@@ -1,16 +1,23 @@
-### Hi there 👋
+💀
 
-<!--
-**beasantanar/beasantanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://www.pngitem.com/pimgs/m/173-1739801_women-in-tech-png-transparent-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="WomanCoder">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Oie! Sou Beatriz, <strong>Frontend Developer</strong>.<br>
+ 
+- 🎓 Análise e Desenvolvimento de Sistemas na **FMU**
+- ⚡ Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**
+- 📚 Aprendendo mais sobre **ReactJS, NextJS, NodeJS**.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💌 Contato:
+</p>
+
+<p align="left">
+  <a href="mailto:beatrizsantanajob@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://linkedin.com/in/beatrizsantanarosa" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+</p>  
