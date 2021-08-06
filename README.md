@@ -6,6 +6,7 @@
   Oie! Sou Beatriz, <strong>Front-end Developer</strong> :D<br>
  
 - 🎓 Análise e Desenvolvimento de Sistemas na **FMU**;
+  - Técnica em Informática na **ETEC Itaquaquecetuba**;
 - ⚡ Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**;
 - 📚 Aprendendo mais sobre **ReactJS, NextJS e NodeJS**.
 </p>
