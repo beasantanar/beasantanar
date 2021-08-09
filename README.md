@@ -1,6 +1,6 @@
 💀
 
-<img src="https://www.pngitem.com/pimgs/m/173-1739801_women-in-tech-png-transparent-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="WomanCoder">
+<img src="https://user-images.githubusercontent.com/72886481/128661043-93cec271-f4a5-4f04-a4ab-59f4fa46f7cf.png" min-width="400px" max-width="400px" width="400px" align="right" alt="WomanCoder">
 
 <p align="left"> 
   Oie! Sou Beatriz 👩🏾‍🦱<br> <strong>Front-end Developer</strong> <br>
