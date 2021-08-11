@@ -3,10 +3,10 @@
 <img src="https://user-images.githubusercontent.com/72886481/128661043-93cec271-f4a5-4f04-a4ab-59f4fa46f7cf.png" min-width="400px" max-width="400px" width="400px" align="right" alt="WomanCoder">
 
 <p align="left"> 
-  Oie! Sou Beatriz 👩🏾‍🦱<br> <strong>Front-end Developer</strong> <br>
+  Oie! Sou Beatriz 👩🏾‍🦱<br> <strong>Dev FullStack</strong> com ênfase em <strong>Front-end</strong> <br>
  
-- 🎓 Análise e Desenvolvimento de Sistemas na **FMU**;
-- 🎓 Técnica em Informática na **ETEC Itaquaquecetuba**;
+- 👩🏽‍🎓 Análise e Desenvolvimento de Sistemas pela **FMU**;
+- 👩🏽‍🎓 Técnica em Informática pela **ETEC Itaquaquecetuba**;
 - 👩🏾‍💻 Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**;
 - 📚 Aprendendo mais sobre **ReactJS, NextJS e NodeJS**.
 </p>
