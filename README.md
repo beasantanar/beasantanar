@@ -8,7 +8,7 @@
 - 👩🏽‍🎓 Análise e Desenvolvimento de Sistemas pela **FMU**;
 - 👩🏽‍🎓 Técnica em Informática pela **ETEC Itaquaquecetuba**;
 - 👩🏾‍💻 Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**;
-- 📚 Aprendendo mais sobre **VueJS, TailwindCSS e NodeJS**.
+- 📚 Aprendendo mais sobre **VueJS, TailwindCSS, PHP, Laravel**.
 </p>
 
 <p align="left">
