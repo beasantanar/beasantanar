@@ -3,12 +3,13 @@
 <img src="https://user-images.githubusercontent.com/72886481/128661043-93cec271-f4a5-4f04-a4ab-59f4fa46f7cf.png" min-width="400px" max-width="400px" width="400px" align="right" alt="WomanCoder">
 
 <p align="left"> 
-  Oie! Sou Beatriz 👩🏾‍🦱<br> <strong>Dev Front-end</strong> <br>
+  Oie! Sou Beatriz 👩🏾‍🦱<br> <strong>Dev Front-end</strong>,  <br>
+  Aprendendo a mexer com back-end.
  
 - 👩🏽‍🎓 Análise e Desenvolvimento de Sistemas pela **FMU**;
-- 👩🏽‍🎓 Técnica em Informática pela **ETEC Itaquaquecetuba**;
-- 👩🏾‍💻 Techs: **HTML, CSS, JavaScript, Styled Components, Bootstrap**;
-- 📚 Aprendendo mais sobre **VueJS, TailwindCSS, PHP, Laravel**.
+- 👩🏽‍🎓 Técnica em Informática pelo **Centro Paula Souza - ETEC**;
+- 👩🏾‍💻 Techs: **HTML, CSS, JavaScript, VueJS, Styled Components, Bootstrap, TailwindCSS**;
+- 📚 Aprendendo mais sobre **PHP, Laravel, API Rest, JSON**.
 </p>
 
 <p align="left">
